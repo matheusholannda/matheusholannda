@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Contador de visitas</h2> 
   
-  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)  
+  ![Visitor Count](https://profile-counter.glitch.me/matheusholannda/count.svg)  
 
   ![Snake animation](https://github.com/matheusholannda/matheusholannda/blob/output/github-contribution-grid-snake.svg)
   
