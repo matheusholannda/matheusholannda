@@ -1,5 +1,3 @@
-### Eai Pessoal, sou Professor Holanda, sejam muito bem-vindos ao meu GitHub!!! 👋
-
 <!--
 **matheusholannda/matheusholannda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  ### Eai Pessoal, sou Professor Holanda, sejam muito bem-vindos ao meu GitHub!!! 👋
   <a href="https://github.com/matheusholannda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusholannda&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusholannda&layout=compact&theme=radical"/>
