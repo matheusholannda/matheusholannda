@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Eai Pessoal, sou Professor Holanda, sejam muito bem-vindos ao meu GitHub!!! 👋</h1>
+<h1> Eai Pessoal, sou o Professor Holanda, sejam muito bem-vindos ao meu GitHub!!! 👋</h1>
 <div align="center">
   <a href="https://github.com/matheusholannda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusholannda&show_icons=true&theme=radical"/>
