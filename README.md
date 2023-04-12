@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
 ##
 <div align="center">
-  <h2>Certificações</h2><br>
+  <h2>:trophy: Certificações</h2><br>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
   <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
   <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
@@ -60,6 +60,11 @@ Here are some ideas to get you started:
  
 ##
 <div align="center">
-  ![Snake animation](https://github.com/matheusholannda/blob/output/github-contribution-grid-snake.svg)
- </div>
+  <h2>Contador de visitas</h2> 
+  
+  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)  
+
+  ![Snake animation](https://github.com/matheusholannda/matheusholannda/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
