@@ -40,21 +40,27 @@ Here are some ideas to get you started:
 
 ##
 <div align="center">
-  <a href="https://www.youtube.com/professorlozano" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/professor.lozano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizmlozano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-carlos-machi-lozano-669358221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.facebook.com/professor.lozano/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusholannda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 ##
 <div align="center">
   <h2>🎓 Formação Acadêmica e Certificações🎓</h2>
- 💻  Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu (USJT) <br>
+ 👨‍💻  Assistente Técnico de Informática - Escola Senai de Informática <br>
+ 👨‍💻  Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática <br>
+ 💻  Tecnólogo em Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu (USJT) <br><br>
+</div>
+  
+##
+<div>
+  <h2>Certificações</h2>
+  <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
+  <img width="10%" height="10%"  src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png"/>
+  <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
 </div>
  
 ##
 <div align="center">
-  ![Snake animation](https://github.com/professorlozano/matheusholannda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matheusholannda/blob/output/github-contribution-grid-snake.svg)
  </div>
  
