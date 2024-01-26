@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>:trophy: Certificações</h2><br>
   <img width="10%" height="10%"  src="https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png"/>
-  <img width="10%" height="10%"  src="[https://user-images.githubusercontent.com/11337507/156904626-3f9891b6-e8ec-4288-b06f-622ff0f52d14.png](https://github.com/matheusholannda/matheusholannda/assets/31321889/e39d8c38-556d-4cb2-9f7a-0a3b44d3bf13)"/>
+  <img  src="![image](https://github.com/matheusholannda/matheusholannda/assets/31321889/0bea32ae-13e7-4b2b-b544-f206d53f8523)
+"/>
 
   
   <img width="10%" height="10%"  src="https://mlohrktvfr9b.i.optimole.com/cb:tVDx~16b5e/w:702/h:702/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/12/adesivo-extreme-go-horse-ns.png"/>
